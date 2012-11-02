@@ -23,3 +23,7 @@ Soon...
 - There is a shitload amount of interaction across the company in regards to ideas that are put up for evaluation (something like an average of 400 comments per month)
 - One of the suggestions if to stop with email communication and bring it to other platforms where you can easily opt-out
 
+### Conclusions
+
+They use a lot of internal tools. Most of them to incentivate social interaction so that everyone know what someone else is doing. There is a big inner communication in engineering and IT team.
+They also have a very big control over what kind of rooms are for cats and pugs and what rooms are not, there is a segregation.
