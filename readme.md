@@ -1,6 +1,6 @@
 # RubyConf 2012
 
-![http://rubyconf.org/images/logo.png](http://rubyconf.org/)
+[![RubyConf 2012](http://rubyconf.org/images/logo.png)](http://rubyconf.com)
 
 ## Description
 
